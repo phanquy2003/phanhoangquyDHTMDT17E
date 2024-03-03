@@ -1,0 +1,13 @@
+h2{
+    color: red;
+        margin: 0%;
+        font-family:'Times New Roman', Times, serif;
+  }
+  button{
+    background-color: lawngreen; 
+    color: ivory;
+   border: limegreen;
+}
+button:hover{
+    background-color: aqua;
+}
